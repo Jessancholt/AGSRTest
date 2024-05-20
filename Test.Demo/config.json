@@ -1,0 +1,13 @@
+﻿{
+  "ConnectionStrings": {
+    "Sqlite": "Data Source=../../../../Patients.db"
+  },
+  "Demo": {
+    "Count": 100,
+    "BirthDate": "2024-01-13T18:25:43",
+    "Use": [ "official", "non-official" ],
+    "Family": [ "Петров", "Иванов", "Попов", "Золотов" ],
+    "Given": [ "Иван", "Иванович", "Петр", "Петрович" ],
+    "Gender": [ "male", "female", "other", "unknown" ]
+  }
+}
